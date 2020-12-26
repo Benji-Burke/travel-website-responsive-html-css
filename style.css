@@ -329,6 +329,10 @@ section {
         display: none;
     }
 
+    header ul li a{
+        color: black;
+    }
+
     .toggle {
         position: relative;
         width: 30px;
@@ -368,7 +372,7 @@ section {
     header ul li a {
         
         font-size: 1.5em;
-        margin: 5px 0;
+        margin: 15px 0;
     }
 
     /* section {
